@@ -1,0 +1,9 @@
+# Internal guidance materials — large binaries, not for the public repo
+info/
+
+# Internal working documents (e.g. email drafts)
+docs/
+
+# OS / editor / local agent config
+.DS_Store
+.claude/
